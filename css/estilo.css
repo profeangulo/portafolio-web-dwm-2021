@@ -1,0 +1,13 @@
+/* Patrones globales del CSS */
+
+/* Tipo de Títulos, Subtítulos, Enlaces y Botones: Poppins */
+h1, h2, h3, h4, h5, h6, a, button { font-family: 'Poppins', sans-serif; }
+
+/* Tipo de Párrafos: Oxygen */
+p, span, strong, em, div { font-family: 'Oxygen', sans-serif; }
+
+
+
+
+
+/* Configuración del estilo propio */
